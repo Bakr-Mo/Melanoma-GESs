@@ -1,6 +1,0 @@
-Figure 1
-Melanoma patients exhibited different genetic profiles on the scRNA transcriptome level. 
-(A) UMAP plot of 981 melanoma cells aggregated in six Louvain clusters. 
-(B) Clustering tree for the melanoma cells clustered using various resolution parameters (0, 0.2, 0.4, 0.8, and 1.2). 
-(C) UMAP plot showing patient sample distribution among the melanoma clusters. 
-(D) The top 10 DEGs of each melanoma cell cluster are visualized by a heatmap.
