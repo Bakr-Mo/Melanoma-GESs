@@ -29,9 +29,6 @@ options(stringsAsFactors = FALSE)
 #   DEG.Markers   – output of FindAllMarkers(seurat, only.pos=TRUE, logfc.threshold=1)
 #   (In your original script, this was GSE115978.prim.and.metast)
 
-# For clarity, rename:
-GSE115978.prim.and.metast <- seurat
-
 
 # 1. GO ENRICHMENT (FIG 2A) ----------------------------------------------------
 cat("Running GO BP enrichment (Fig 2A)...\n")
