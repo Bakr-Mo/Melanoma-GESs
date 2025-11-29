@@ -1,2 +1,6 @@
 # Melanoma-GESs
 Scripts for Bakr, M. N. et al. Biomedicines 2022.
+
+Bakr, M.N.; Takahashi, H.; Kikuchi, Y. Analysis of Melanoma Gene Expression Signatures at the Single-Cell Level Uncovers 45-Gene Signature Related to Prognosis. Biomedicines 2022, 10, 1478. https://doi.org/10.3390/biomedicines10071478
+
+
